@@ -3,9 +3,4 @@
 ### Probabilistic Neural Operator for Reduced Order Modelling of Turbulent Flows
 **Applied to NASA SHJAR SP7 Transonic Jet** *Stability-preserving Generative FNO with explicit derivation of ROM inside the architecture*
 
-<p align="center">
-  <video width="100%" controls autoplay muted loop>
-    <source src="./raw_gradient_magnitude_evolution.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+<img width="800" height="353" alt="raw_gradient_magnitude_evolution-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/8a64b562-38dd-4164-ae2a-7b0562fd4631" />
